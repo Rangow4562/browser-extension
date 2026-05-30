@@ -1,4 +1,4 @@
-# Ather Browser Extension
+# Browser Extension
 
 A multi-agent AI-powered web automation Chrome/Firefox extension that collaborates to plan, navigate, and validate complex browser tasks.
 
